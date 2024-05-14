@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76cec0c4.css",
+    "main.js": "/static/js/main.da780883.js",
+    "static/media/ftp wallpaper.png": "/static/media/ftp wallpaper.e18f558fa08465bbd480.png",
+    "index.html": "/index.html",
+    "main.76cec0c4.css.map": "/static/css/main.76cec0c4.css.map",
+    "main.da780883.js.map": "/static/js/main.da780883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76cec0c4.css",
+    "static/js/main.da780883.js"
+  ]
+}
